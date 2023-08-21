@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Pickaxe",
+      "description": "A basic tool for gathering resources.",
+      "price": 100,
+      "effect": {
+        "resourceMultiplier": 1.2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Advanced Pickaxe",
+      "description": "An advanced tool for gathering more resources.",
+      "price": 500,
+      "effect": {
+        "resourceMultiplier": 1.5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Fuel Cell",
+      "description": "Required to power up your spaceship.",
+      "price": 300,
+      "effect": {
+        "fuelDuration": 60
+      }
+    },
+    {
+      "id": 4,
+      "name": "Spaceship Upgrade",
+      "description": "Upgrade your spaceship for faster travel.",
+      "price": 1000,
+      "effect": {
+        "speedMultiplier": 1.5
+      }
+    }
+  ]
+  

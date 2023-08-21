@@ -41,3 +41,4 @@ module.exports = {
 // Function to determine the amount of resources gathered (you can customize this logic)
 function getRandomResources() {
   return Math.floor(Math.random() * (30 - 15 + 1)) + 15; // Random number
+}
